@@ -1,7 +1,5 @@
 # Path Of Doomed
  You have a machine that can fire. Kill your enemies. 2D shooter game on web platform made with Unity.
- 
- ![Screenshot_49](https://user-images.githubusercontent.com/130579265/235330892-bec6952d-da7c-49f3-aeb2-a3944fba6b70.png)
 
  
  ![Screenshot_44](https://user-images.githubusercontent.com/130579265/235330870-0854c012-1337-4178-bd68-d465c76dbb8a.png)
