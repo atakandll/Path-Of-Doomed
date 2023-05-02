@@ -2,7 +2,7 @@
  Play Path of Doomed: https://atakandll.itch.io/path-of-doomed
 
 Story:
-Our character has lost his way in a dark tunnel, he mysteriously encounters a wizard who says "he is the chosen one".  Saying that he is waiting for him, the Wizard tells him what needs to be done about his big task. ONLY KILL THE DEVILS !
+Our character has lost his way in a dark tunnel, he mysteriously encounters a wizard who says "he is the chosen one".  Saying that he is waiting for him, the Wizard tells him what needs to be done about his big task. ONLY KILL THE DEVILS!
 
 
  ![Screenshot_44](https://user-images.githubusercontent.com/130579265/235330870-0854c012-1337-4178-bd68-d465c76dbb8a.png)
