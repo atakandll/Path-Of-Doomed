@@ -11,7 +11,7 @@ Our character has lost his way in a dark tunnel, he mysteriously encounters a wi
 Controls:
 WASD - Move, 
  Mouse - Aim and shoot, 
- E - Interact
+ E - Interact.
 
 
 
